@@ -26,8 +26,8 @@ Project ini dikembangkan sebagai project UAS Pemrograman Permainan AB di Fakulta
 
 Beberapa asset dalam project menggunakan asset gratis dari pihak ketiga.
 
-Space Shooter Redux UI — OpenGameArt
-Asset dan audio lainnya digunakan sesuai dengan ketentuan/lisensi dari masing-masing sumber
+- Space Shooter Redux UI — OpenGameArt
+- Asset dan audio lainnya digunakan sesuai dengan ketentuan/lisensi dari masing-masing sumber
 
 ## License
 
