@@ -13,7 +13,7 @@ Project ini dikembangkan sebagai project UAS Pemrograman Permainan AB di Fakulta
 
 ## Teknologi
 
-- Unity
+- Unity 2022
 - C#
 
 ## Cara Menjalankan
